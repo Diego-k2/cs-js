@@ -1,0 +1,11 @@
+* var -> Visivel em todo escopo do código;
+Podemos usar a variavel antes de declarar ela;
+
+* let -> Só conseguimos usar o let após fazermos a declaração (mais utilizado)
+
+* const -> são as constantes 
+
+
+
+
+ 
