@@ -1,11 +1,9 @@
 * var -> Visivel em todo escopo do código;
-Podemos usar a variavel antes de declarar ela;
+Podemos usar a variavel antes de declarar ela; (não é mais utilizada)
 
-* let -> Só conseguimos usar o let após fazermos a declaração (mais utilizado)
+* let -> Só conseguimos usar o let após fazermos a declaração (é o utilizado)
 
 * const -> são as constantes 
 
 
-
-
- 
+ truthy e falsy = se comportam iguais booleanos mas nao são
