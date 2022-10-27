@@ -6,4 +6,8 @@ Podemos usar a variavel antes de declarar ela; (não é mais utilizada)
 * const -> são as constantes 
 
 
- truthy e falsy = se comportam iguais booleanos mas nao são
+*truthy e falsy = se comportam iguais booleanos mas nao são
+
+undefined -> quando eu não inicio valor na variavel 
+
+*conversao implicita -> um dado em outro (String -> number; number -> String)
