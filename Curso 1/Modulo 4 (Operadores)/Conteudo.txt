@@ -1,0 +1,4 @@
+== -> compara somente os valores
+=== -> compara os valores e o tipo do dado (Usar como boas praticas) 
+
+User ternario quando foi retornar coisas simples 

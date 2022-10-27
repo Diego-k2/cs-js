@@ -35,9 +35,3 @@ if(forma === "quadrado"){
     area = "Não é retangulo nem triangulo";
 }
 console.log(area);
-
-
-
-
-
-
