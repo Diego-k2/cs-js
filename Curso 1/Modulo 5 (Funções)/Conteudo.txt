@@ -1,0 +1,15 @@
+* Expresaao de função (pesquisar)
+-> não recebe o nome usamos o nome da const
+-> Só conseguimos usar após inicializar
+
+
+* Arrow function
+-> Nova no JS 
+-> Diminui o código 
+-> Usa o nome da constante
+
+-> Sintaxe: const nome = parametros => retorno;
+
+
+* Depende muito do que eu quero trabalhar com a função para assim escolher o metodo declarativo dela 
+*Hoisting 
