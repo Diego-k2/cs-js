@@ -1,0 +1,20 @@
+const nomes = ["Diego", "Maria", "Pedro"];
+
+
+nomes.forEach(function (nomes){
+    console.log(nomes);
+});
+
+
+
+nomes.forEach((nome) => {
+    console.log(nome);
+});
+
+
+
+function exibeNome(nome) {
+    console.log(nome);
+}
+
+nomes.forEach(exibeNome);

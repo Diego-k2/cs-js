@@ -1,0 +1,5 @@
+Função Callback -> é aquela que eu passo como parametro de algo
+
+forEach -> não retorno nada
+
+map -> preciso retornar algo
