@@ -1,0 +1,2 @@
+JSON.parse(): converte JSON para um objeto JavaScript;
+JSON.stringify(): converte um objeto JavaScript para o formato JSON.
