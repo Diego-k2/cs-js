@@ -1,2 +1,6 @@
 JSON.parse(): converte JSON para um objeto JavaScript;
 JSON.stringify(): converte um objeto JavaScript para o formato JSON.
+
+
+para criar um objeto igual ao java devemos utilizar uma function e o new 
+.call => como se fosse o extends 
