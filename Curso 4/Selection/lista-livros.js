@@ -20,5 +20,6 @@ const valoresLivros = [
     }
 ];
 
+
 module.exports = valoresLivros; //Utilizamos para exportar e basta colocarmos o nome da constante ou da funcao
 
