@@ -1,0 +1,1 @@
+ Adicionar no package.json -> "type": "module" com isso marcamos que estamos usando o import 
