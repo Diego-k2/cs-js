@@ -1,6 +1,0 @@
-** Oque vamos contruir ? 
-    Uma lib que entre no arquivo MarkDown e teste os links para ver se eles 
-    ainda estão no ar 
-
-
-
