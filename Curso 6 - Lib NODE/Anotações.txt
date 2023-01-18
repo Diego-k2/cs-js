@@ -1,1 +1,14 @@
  Adicionar no package.json -> "type": "module" com isso marcamos que estamos usando o import 
+
+ Código Sincrono - Código executado em sequencia 
+
+ Código Assincrono - Ele não espera uma tarefa terminar para começar outra 
+
+ Função CallBack é uma funçã oque recebe outra como parametro 
+
+ Sempre que falamos de "promises" em JS estamos falando de código Assincrono
+
+ Async -> devemos marcar a funcão com Async 
+ Await -> Marcar todos os trechos de codigos que precisamos aguardar 
+
+ 
